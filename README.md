@@ -1,16 +1,184 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ayushjha474/ayushjha474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280">
 
-Here are some ideas to get you started:
+# 👋 Hey, I'm Ayush Jha
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📱 iOS Developer • 🤖 AI Enthusiast • 🚀 Building Cool Stuff
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=FF4D8D&center=true&vCenter=true&width=700&lines=SwiftUI+Developer;AI+%26+Machine+Learning+Learner;Building+iOS+Applications;Turning+Ideas+Into+Products"/>
+
+</div>
+
+---
+
+# 💫 About Me
+
+```swift
+struct Developer {
+
+    let name = "Ayush Jha"
+
+    let role = "iOS Developer"
+
+    let passion = "Building Products"
+
+    let learning = "Artificial Intelligence"
+
+}
+```
+
+📱 Building beautiful iOS applications with SwiftUI
+
+🤖 Exploring Artificial Intelligence & Machine Learning
+
+🚀 Creating products that solve real problems
+
+💡 Always learning and experimenting with new technologies
+
+---
+
+# ⚡ Daily Life
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450">
+
+<br>
+
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="320">
+
+<br><br>
+
+### ☕ Wake Up → Code → Build → Learn → Repeat
+
+</div>
+
+---
+
+# 🎮 Hobbies
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rahul-jha98/README_GIFS/main/dev-working_rounded.gif" width="250">
+
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="250">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250">
+
+</div>
+
+<br>
+
+* 💻 Coding
+* 📱 App Development
+* 🤖 AI & Technology
+* 🎵 Music
+* 🎬 Movies & Series
+* 🚀 Exploring New Ideas
+
+---
+
+# ❤️ Featured Project
+
+## Aura Match
+
+### Modern Dating Application Built With SwiftUI
+
+<div align="center">
+
+<img src="./assets/aura1.png" width="280">
+
+<img src="./assets/aura2.png" width="280">
+
+</div>
+
+<br>
+
+### Features
+
+✨ Beautiful Modern UI
+
+✨ Smart Matching Experience
+
+✨ Smooth Onboarding Flow
+
+✨ Native iOS Performance
+
+✨ SwiftUI Architecture
+
+---
+
+# 🍽️ Food Information Chatbot
+
+### Smart Nutrition & Food Assistant
+
+<div align="center">
+
+<img src="./assets/foodchatbot.png" width="750">
+
+</div>
+
+<br>
+
+### Features
+
+🥗 Food Information Lookup
+
+📊 Nutrition Details
+
+🧠 Intelligent Responses
+
+⚡ Fast User Experience
+
+📱 Clean Interface
+
+---
+
+# 🛠️ Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=swift,python,firebase,git,github,mysql"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="350">
+
+</div>
+
+### Learning Journey
+
+* Advanced SwiftUI
+* Core ML
+* Artificial Intelligence
+* Product Design
+* App Architecture
+
+---
+
+# 💭 Philosophy
+
+<div align="center">
+
+### "Stay Curious. Keep Building. Never Stop Learning."
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
+
+### Thanks for Visiting My Profile 🚀
+
+<img src="https://komarev.com/ghpvc/?username=ayushjha474&style=for-the-badge">
+
+</div>
