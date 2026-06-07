@@ -42,7 +42,7 @@ struct Developer {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450">
+
 
 <br>
 
@@ -62,7 +62,7 @@ struct Developer {
 
 <img src="https://raw.githubusercontent.com/rahul-jha98/README_GIFS/main/dev-working_rounded.gif" width="250">
 
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="250">
+
 
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250">
 
@@ -84,15 +84,8 @@ struct Developer {
 ## Aura Match
 
 ### Modern Dating Application Built With SwiftUI
-
-<div align="center">
-
-<img src="./assets/aura1.png" width="280">
-
-<img src="./assets/aura2.png" width="280">
-
+Repo <<"https://github.com/ayushjha474/Aura" >>
 </div>
-
 <br>
 
 ### Features
@@ -113,9 +106,7 @@ struct Developer {
 
 ### Smart Nutrition & Food Assistant
 
-<div align="center">
-
-<img src="./assets/foodchatbot.png" width="750">
+ Repo <<"https://github.com/ayushjha474/Food-Information-Chatbot">>
 
 </div>
 
@@ -145,11 +136,7 @@ struct Developer {
 
 ---
 
-# 🌱 Currently Learning
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="350">
 
 </div>
 
