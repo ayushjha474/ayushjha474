@@ -102,7 +102,7 @@ Repo <<"https://github.com/ayushjha474/Aura" >>
 
 ### Smart Nutrition & Food Assistant
 
- Repo <<"https://github.com/ayushjha474/Food-Information-Chatbot">>
+ Repo <<"https://github.com/ayushjha474/Food-Information-Chatbot" >>
 
 </div>
 
