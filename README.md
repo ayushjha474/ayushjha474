@@ -60,10 +60,6 @@ struct Developer {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rahul-jha98/README_GIFS/main/dev-working_rounded.gif" width="250">
-
-
-
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250">
 
 </div>
