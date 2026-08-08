@@ -77,26 +77,10 @@ struct Developer {
 
 # ❤️ Featured Project
 
-## Aura Match
+ # 📊 AI-Powered Data Analytics Dashboard
+   A personal project I built to get hands-on with the full data analytics pipeline — from raw data to AI-generated      insights — using Python.
+ Repo <<"https://github.com/ayushjha474/AI-Powered-Data-Analytics-Dashboard/blob/main/AI-Powered%20Data%20Analytics%20Dashboard/README.md"" >>
 
-### Modern Dating Application Built With SwiftUI
-Repo <<"https://github.com/ayushjha474/Aura" >>
-</div>
-<br>
-
-### Features
-
-✨ Beautiful Modern UI
-
-✨ Smart Matching Experience
-
-✨ Smooth Onboarding Flow
-
-✨ Native iOS Performance
-
-✨ SwiftUI Architecture
-
----
 
 # 🍽️ Food Information Chatbot
 
